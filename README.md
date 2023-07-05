@@ -1,6 +1,8 @@
 ### About
 
 A virtual keyboard implementation and a text area to type and test it out.
+![image](https://github.com/jmitch1132/virtual_keyboard/assets/73263392/0dda4abf-1747-4331-803c-4ce3e9bfcf68)
+
 
 ## Available Scripts
 
